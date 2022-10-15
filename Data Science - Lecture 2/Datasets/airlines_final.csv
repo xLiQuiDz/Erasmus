@@ -105,8 +105,8 @@
 116,2627,Tuesday,UNITED,CHICAGO-O'HARE,Midwest US,Hub,Gates 60-69,2018-12-31,74.9999999999999,Clean,Very safe,Very satisfied
 117,1563,Wednesday,DELTA,ATLANTA,East US,Hub,Gates 40-48,2018-12-31,135.0,Somewhat clean,Somewhat safe,Neutral
 118,752,Thursday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,235.0,Somewhat clean,Somewhat safe,Neutral
-120,3135,Tuesday,UNITED,SAN DIEGO,West US,Medium,Gates 60-69,2018-12-31,70.0000000000001,Somewhat clean,Very safe,Somewhat satsified
-121,1123,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,Midwest US,Hub,Gates 40-48,2018-12-31,90.0,Somewhat clean,Very safe,Somewhat satsified
+120,3135,Tuesday,UNITED,SAN DIEGO,West US,Medium,Gates 60-69,2018-12-31,70.0000000000001,Somewhat clean,Very safe,Somewhat sasified
+121,1123,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,Midwest US,Hub,Gates 40-48,2018-12-31,90.0,Somewhat clean,Very safe,Somewhat sasified
 122,2220,Thursday,SOUTHWEST,PHOENIX,West US,Hub,Gates 20-39,2018-12-31,95.0,Somewhat clean,Very safe,Very satisfied
 123,3065,Tuesday,UNITED,SPOKANE,West US,Small,Gates 70-90,2018-12-31,112.0,Average,Neutral,Neutral
 124,3052,Tuesday,AMERICAN,MIAMI,East US,Hub,Gates 50-59,2018-12-31,125.0,Clean,Somewhat safe,Somewhat satsified
@@ -279,7 +279,7 @@
 317,1430,Wednesday,UNITED,LAS VEGAS,West US,Hub,Gates 60-69,2018-12-31,82.0,Clean,Somewhat safe,Very satisfied
 318,2881,Friday,EVA AIR,TAIPEI,Asia,Hub,Gates 91-102,2018-12-31,130.0,Clean,Very safe,Very satisfied
 319,1864,Tuesday,UNITED,LOS ANGELES,West US,    Hub,Gates 60-69,2018-12-31,100.0,Average,Somewhat safe,Somewhat unsatisfied
-321,1702,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,Europe,Hub,Gates 1-12,2018-12-31,120.0,Clean,Somewhat safe,Very satisfied
+321,1702,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,Europe,Hub,Gates 1-12,2018-12-31,120.0,Clean,Somewhat safe,Very saisfied
 322,653,Friday,UNITED INTL,MUNICH,Europe,Hub,Gates 91-102,2018-12-31,205.0,Somewhat clean,Neutral,Neutral
 323,1500,Wednesday,DELTA,LOS ANGELES,West US,Hub     ,Gates 40-48,2018-12-31,135.0,Somewhat clean,Neutral,Neutral
 324,2660,Saturday,JETBLUE,BOSTON,East US,Large,Gates 1-12,2018-12-31,132.0,Somewhat clean,Very safe,Somewhat satsified
